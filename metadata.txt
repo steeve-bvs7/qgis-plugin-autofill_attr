@@ -12,8 +12,8 @@ email=steeve.beauvais@gmail.com
 
 about=Right click in the attribute table to open a screen which lets you quickly set the unique value text in fields.
 
-tracker=https://github.com/steevebvs/qgis-plugin-autofill_attrissues
-repository=https://github.com/steevebvs/qgis-plugin-autofill_attr
+tracker=https://github.com/steeve-bvs7/qgis-plugin-autofill_attrissues
+repository=https://github.com/steeve-bvs7/qgis-plugin-autofill_attr
 # End of mandatory metadata
 
 # Recommended items:
@@ -25,7 +25,7 @@ hasProcessingProvider=no
 # Tags are comma separated with spaces allowed
 tags=attribute table, attribute edit, field, table, search, attribute
 
-homepage=https://github.com/steevebvs/qgis-plugin-autofill_attr
+homepage=https://github.com/steeve-bvs7/qgis-plugin-autofill_attr
 category=Plugins
 icon=icon.png
 # experimental flag
