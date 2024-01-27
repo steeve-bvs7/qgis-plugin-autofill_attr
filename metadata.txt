@@ -12,7 +12,7 @@ email=steeve.beauvais@gmail.com
 
 about=Right click in the attribute table to open a screen which lets you quickly set the unique value text in fields.
 
-tracker=https://github.com/steeve-bvs7/qgis-plugin-autofill_attrissues
+tracker=https://github.com/steeve-bvs7/qgis-plugin-autofill_attr/issues
 repository=https://github.com/steeve-bvs7/qgis-plugin-autofill_attr
 # End of mandatory metadata
 
